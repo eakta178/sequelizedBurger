@@ -1,0 +1,17 @@
+
+
+body{
+  background-image: url("../img/brick-texture.jpg"); 
+  background-color: rgba(41, 7, 7, 0.123);
+  color: rgb(255, 255, 255);
+  
+}
+img{
+  height: 200px;
+  width: 50%;
+
+}
+#top-bar{
+  margin: 10px;
+}
+  

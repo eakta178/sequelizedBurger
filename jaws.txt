@@ -1,0 +1,4 @@
+host: l7cup2om0gngra77.cbetxkdyhwsb.us-east-1.rds.amazonaws.com
+usename: qhw26vktbft8m6nn
+password: u1riixelade0sqbl
+port: 3306
